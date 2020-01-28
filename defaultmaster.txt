@@ -1,3 +1,6 @@
 ؤم�ًَْ-�ـىً, ًمنـ�وى ق ٌـّْمِم.
 
-new text not warning
+\n new text not warning
+
+text from ReSide branch.
+
